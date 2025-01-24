@@ -20,7 +20,7 @@ Created Boxplots, Bar Chart, Pie Chart, Stacked Bar Charts and Line charts for b
 🛠️ Tools and Libraries
 ## Programming Language:
 * Python
-# Libraries:
+## Libraries:
 * pandas for data manipulation
 * matplotlib and seaborn for data visualization
 * numpy for numerical operations
